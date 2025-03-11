@@ -1,0 +1,6 @@
+-> modifici fisiere
+-> git add . (adauga toate modificarile facute in staging)SAU git add /c/Users/vladv/Desktop/proiecte/test-1 (pwd -> calea curenta)
+-> git commit -m "Descrierea commit-ului"
+-> git push (Trimite commit-ul catre repository-ul remote=GitHub si face modificarile)
+-> git pull (Trage modificarile facute in repo-ul remote si modifica in repo local)
+-> git status
