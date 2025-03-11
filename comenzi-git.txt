@@ -4,3 +4,4 @@
 -> git push (Trimite commit-ul catre repository-ul remote=GitHub si face modificarile)
 -> git pull (Trage modificarile facute in repo-ul remote si modifica in repo local)
 -> git status
+-> git branch (branch-ul tau local origin/main este branch-ul remote=GitHub/main)
